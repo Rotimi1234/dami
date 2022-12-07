@@ -9,7 +9,7 @@
 
   dami_dev is a fully responsive personal portfolio, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://dami.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Dami Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Dami Desktop Demo](./readme-images/portfolio-dashboard.png "Desktop Demo")
 
 ### Prerequisites
 
